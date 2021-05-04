@@ -29,9 +29,9 @@
   -  Love to play Games like compititive and love to travel.  
 </div> 
 <div align="left"> 
-## Portfolio Link: https://niloy-personal-portfolio.netlify.app/
-## Resume Link: https://drive.google.com/file/d/13bxuunmGSpQQg_43BVYB0WdGDkbbxln9/view?usp=sharing
-## Email Address: niloyrahman31@gmail.com
+- Portfolio Link: https://niloy-personal-portfolio.netlify.app/
+- Resume Link: https://drive.google.com/file/d/13bxuunmGSpQQg_43BVYB0WdGDkbbxln9/view?usp=sharing
+- Email Address: niloyrahman31@gmail.com
 </div> 
 
 
