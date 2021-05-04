@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**niloycj7/niloycj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div>
+  <h2 align="center">Hi there 👋 I am "Asfakur Rahman"</h2>
+  <h3 align="center">Fullstack Web Developer</h3>
+<hr>
+<p align="center">
+  <a href="https://www.linkedin.com/in/niloyrahman00/">
+    <img align="center" alt="LinkdeIn"  src="https://i.ibb.co/Lp4Qbr1/linkedin.png" />
+  </a>
+  <a href="niloyrahman31@gmail.com">
+    <img align="center" alt="Gmail"  src="https://i.ibb.co/ZVLWjVX/gmailpng.png" />
+  </a>
+</p>
+<br>
+ <hr>
 
-Here are some ideas to get you started:
+<h3> Skills </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Expertise: HTML, CSS, JavaScript, ES6, React, API, Bootstrap, Material UI 
+- Intermediate: NodeJS, MongoDB, Express, SCSS, Redux 
+- Comfortable: C, C++, C#, Java 
+- Familiar: Firebase, Netlify, Heroku, 
+- Tools: VS Code, GIT, Code Blocks 
+
+<div align="left"> 
+  <h3>About Myself </h3>
+ 
+  -  Graduated from a reputated university in Computer Science And Engineering.
+  -  Now working on Full Stack Development projects & developing skills.
+  -  Learning more about Backend Architectures and Frontend Developement.
+  -  Love to play Games like compititive and love to travel.  
+</div> 
+
+
+ </div>
+
