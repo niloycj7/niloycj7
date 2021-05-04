@@ -27,10 +27,11 @@
   -  Now working on Full Stack Development projects & developing skills.
   -  Learning more about Backend Architectures and Frontend Developement.
   -  Love to play Games like compititive and love to travel.  
+  -  Portfolio Link: https://niloy-personal-portfolio.netlify.app/
+  -  Resume Link: https://drive.google.com/file/d/13bxuunmGSpQQg_43BVYB0WdGDkbbxln9/view?usp=sharing
+  -  Email Address: niloyrahman31@gmail.com
 </div> 
 
  </div>
-## Portfolio Link: https://niloy-personal-portfolio.netlify.app/
-## Resume Link: https://drive.google.com/file/d/13bxuunmGSpQQg_43BVYB0WdGDkbbxln9/view?usp=sharing
-## Email Address: niloyrahman31@gmail.com
+
 
