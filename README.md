@@ -1,7 +1,7 @@
 
  <div>
   <h2 align="center">Hi there 👋 I am "Asfakur Rahman"</h2>
-  <h3 align="center">Fullstack Web Developer</h3>
+  <h3 align="center">Full MERN Stack Web Developer</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/niloyrahman00/">
     <img align="center" alt="LinkdeIn"  src="https://i.ibb.co/Lp4Qbr1/linkedin.png" />
