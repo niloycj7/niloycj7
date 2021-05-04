@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/niloyrahman00/">
     <img align="center" alt="LinkdeIn"  src="https://i.ibb.co/Lp4Qbr1/linkedin.png" />
   </a>
-  <a href="niloyrahman31@gmail.com">
+  <a href="https://www.niloyrahman31@gmail.com">
     <img align="center" alt="Gmail"  src="https://i.ibb.co/ZVLWjVX/gmailpng.png" />
   </a>
 </p>
