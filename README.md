@@ -16,7 +16,7 @@
 
 - Expertise: HTML, CSS, JavaScript, ES6, React, API, Bootstrap, Material UI 
 - Intermediate: NodeJS, MongoDB, Express, SCSS, Redux 
-- Comfortable: C, C++, C#, Java 
+- Comfortable: C, C++, Data Structure, Algorithm
 - Familiar: Firebase, Netlify, Heroku, 
 - Tools: VS Code, GIT, Code Blocks 
 
