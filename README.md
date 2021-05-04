@@ -23,7 +23,7 @@
 <div align="left"> 
   <h3>About Myself </h3>
  
-  -  Graduated from a reputated university in Computer Science And Engineering.
+  -  Studied from a reputated university in Computer Science And Engineering, only thesis and field work courses are remaining.
   -  Now working on Full Stack Development projects & developing skills.
   -  Learning more about Backend Architectures and Frontend Developement.
   -  Love to play Games like compititive and love to travel.  
